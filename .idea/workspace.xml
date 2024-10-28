@@ -4,15 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80a962f-1745-47ec-950e-59b498195d5b" name="Changes" comment="" />
+    <list default="true" id="c80a962f-1745-47ec-950e-59b498195d5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Devicetype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Devicetype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Smartphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/electronicdevices/Tablet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/electronicdevices/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/electronicdevices/hello-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kafuteekito"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kafuteekito/ElectronicDevices.git",
+    "accountId": "297c0f78-91dc-4465-89b8-497dd33f7c88"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -20,9 +50,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2nsNsWi3x6QVKrJQQaycMd4hRoK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,13 +61,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.electronicdevices" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Electronic Devices" />
@@ -69,7 +110,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729758032088</updated>
-      <workItem from="1729758033088" duration="3000" />
+      <workItem from="1729758033088" duration="2715000" />
+      <workItem from="1730104900071" duration="8226000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,5 @@
-public class Devicetype {
-    private Enum type;
-    private String name;
-    private double price;
-    private Double weight;
+package org.example.electronicdevices;
 
+public enum Devicetype {
+    SMARTPHONE, LAPTOP, TABLET
 }
